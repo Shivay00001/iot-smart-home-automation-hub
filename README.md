@@ -1,3 +1,8 @@
-# iot-smart-home-automation-hub
+# Iot Smart Home Automation Hub
 
-Initial scaffolding.
+This repository contains the source code and configuration for **iot-smart-home-automation-hub**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
